@@ -9,12 +9,12 @@
     // must be [{"address": "", "provider": ""}]
     "api": [
         {
-            "address": "https://cosmos.api.ping.pub", 
+          stars1uch4vry35d7f40lgmrmzgdadz4z6vnsf3g32sy  "address": "https://cosmos.api.ping.pub", 
             "provider": "Ping"
         }
     ], 
     "rpc": [
-        {
+        {stars1uch4vry35d7f40lgmrmzgdadz4z6vnsf3g32sy
             "address": "https://cosmos.api.ping.pub:443", 
             "provider": "Ping"
         }
